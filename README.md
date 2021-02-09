@@ -1,4 +1,4 @@
-### Hi there, I'm Rishav Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there, I'm Rishav Singh <img src="https://github.com/rishav-singh-0/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 
@@ -24,10 +24,10 @@
 <br/>
 
 
-- 🔭 I’m currently working on Automated Drone Package Delivery System
-- 🌱 I’m currently learning ROS and Flutter
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> I’m currently working on Automated Drone Package Delivery System
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I’m currently learning ROS and Flutter
 - 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Algorithm Designing
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px"> I’m looking for help with Algorithm Designing
 - 💬 Ask me anything about anime 
 
 
@@ -52,7 +52,13 @@
 </a>
 <a href="https://github.com/rishav-singh-0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-singh-0&show_icons=true&theme=light&line_height=27" alt="Rishav's github stats"/>
-
+</a>
+<a href="https://github.com/rishav-singh-0/rishav-singh-0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0&theme=auto" />
+</a>
+<a href="https://github.com/rishav-singh-0/my-linux-config">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=my-linux-config&theme=auto" />
+</a>
 
 <div align="center">
 
