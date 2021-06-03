@@ -23,13 +23,13 @@
 <br/>
 <br/>
 
-
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> I’m currently working on Automated Drone Package Delivery System
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I’m currently learning ROS and Flutter
+<!--
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> I’m currently working as Summer Intern at e-Yantra, IIT Bombay
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I’m currently learning Django and Flutter
 - 👯 I’m looking to collaborate on Flutter
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px"> I’m looking for help with Algorithm Designing
-- 💬 Ask me anything about anime 
-
+- 💬 Ask me anything about Anime 
+-->
 
 
 
@@ -37,27 +37,35 @@
 [![Linkedin: rishav-singh-0](https://img.shields.io/badge/-rishav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishav-singh-0/)](https://www.linkedin.com/in/rishav-singh-0/)
 [![GitHub rishav-singh-0](https://img.shields.io/github/followers/rishav-singh-0?label=follow&style=social)](https://github.com/rishav-singh-0)
 
-<!--
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
--->
+### :computer: Languages:  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+
+### :hammer_and_wrench: Tools
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   -->
+
+
 
 <a href="https://github.com/rishav-singh-0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-singh-0&theme=light&hide_langs_below=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-singh-0&theme=dracula&hide_langs_below=0" />
 </a>
 <a href="https://github.com/rishav-singh-0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-singh-0&show_icons=true&theme=light&line_height=27" alt="Rishav's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-singh-0&show_icons=true&theme=dracula&line_height=27" alt="Rishav's github stats"/>
 </a>
 <a href="https://github.com/rishav-singh-0/rishav-singh-0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0&theme=auto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0&theme=dracula" />
 </a>
 <a href="https://github.com/rishav-singh-0/my-linux-config">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=my-linux-config&theme=auto" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=my-linux-config&theme=dracula" />
 </a>
 
 <div align="center">
