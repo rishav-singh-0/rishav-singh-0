@@ -13,8 +13,8 @@
 <a href="https://t.me/rishav_s">
   <img align="left" alt="Rishav's Telegram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/055-telegram.png" />
 </a>
-<a href="https://instagram.com/_._rishav_singh_._/">
-  <img align="left" alt="Rishav's Instagram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/034-instagram.png" />
+<!-- <a href="https://instagram.com/_._rishav_singh_._/">
+  <img align="left" alt="Rishav's Instagram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/034-instagram.png" /> -->
 </a>
 <a href="https://www.youtube.com/channel/UCeql5HBmcs8d0OFT30erYkw/">
   <img align="left" alt="Rishav's Youtube" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/002-youtube.png" />
@@ -30,7 +30,6 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px"> I’m looking for help with Algorithm Designing
 - 💬 Ask me anything about Anime 
 -->
-
 
 
 [![Twitter: RishavSingh0](https://img.shields.io/twitter/follow/rishavsingh0?style=social)](https://twitter.com/rishavsingh0)
@@ -61,6 +60,10 @@
 <a href="https://github.com/rishav-singh-0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-singh-0&show_icons=true&theme=dracula&line_height=27" alt="Rishav's github stats"/>
 </a>
+<!-- <a href="https://github.com/rishav-singh-0">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-singh-0&show_icons=true&theme=dracula&line_height=27" alt="Rishav's github streak"/>
+</a> -->
+<br>
 <a href="https://github.com/rishav-singh-0/rishav-singh-0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0&theme=dracula" />
 </a>
