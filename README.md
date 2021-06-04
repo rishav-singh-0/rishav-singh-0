@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-singh-0&label=Views&color=blue&style=plastic" alt="rishav-singh-0" /> </p>
 
 <a href="https://twitter.com/rishavsingh0">
-  <img align="left" alt="Rishav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rishav's Twitter" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/014-twitter.png" />
 </a>
 <a href="https://linkedin.com/in/rishav-singh-0">
-  <img align="left" alt="Rishav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rishav's Linkdein" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/031-linkedin.png" />
 </a>
 <a href="https://t.me/rishav_s">
-  <img align="left" alt="Rishav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Rishav's Telegram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/055-telegram.png" />
 </a>
 <a href="https://instagram.com/_._rishav_singh_._/">
-  <img align="left" alt="Rishav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rishav's Instagram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/034-instagram.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCeql5HBmcs8d0OFT30erYkw/">
-  <img align="left" alt="Rishav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Rishav's Youtube" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/002-youtube.png" />
 </a>
 
 <br/>
