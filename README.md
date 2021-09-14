@@ -64,8 +64,8 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-singh-0&show_icons=true&theme=dracula&line_height=27" alt="Rishav's github streak"/>
 </a> -->
 <br>
-<a href="https://github.com/rishav-singh-0/rishav-singh-0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0&theme=dracula" />
+<a href="https://github.com/rishav-singh-0/rishav-singh-0.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=rishav-singh-0.github.io&theme=dracula" />
 </a>
 <a href="https://github.com/rishav-singh-0/my-linux-config">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-singh-0&repo=my-linux-config&theme=dracula" />
