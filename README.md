@@ -13,10 +13,10 @@
 <a href="https://t.me/rishav_s">
   <img align="left" alt="Rishav's Telegram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/055-telegram.png" />
 </a>
-<!-- <a href="https://instagram.com/_._rishav_singh_._/">
-  <img align="left" alt="Rishav's Instagram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/034-instagram.png" /> -->
+<a href="https://instagram.com/_._rishav_singh_._/">
+  <img align="left" alt="Rishav's Instagram" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/034-instagram.png" />
 </a>
-<a href="https://www.youtube.com/channel/UCeql5HBmcs8d0OFT30erYkw/">
+<a href="https://www.youtube.com/@rishav-singh">
   <img align="left" alt="Rishav's Youtube" width="22px" src="https://github.com/rishav-singh-0/rishav-singh-0/raw/main/data/icons-social/png/002-youtube.png" />
 </a>
 
@@ -40,7 +40,7 @@
 ### :computer: Languages:  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code> 
@@ -48,10 +48,9 @@
 
 ### :hammer_and_wrench: Tools
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   -->
-
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-plain.svg"></code>
 
 
 <a href="https://github.com/rishav-singh-0">
